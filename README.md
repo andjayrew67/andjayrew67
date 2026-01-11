@@ -1,6 +1,4 @@
-<a href="https://user-images.githubusercontent.com/8558/290011169-1af9e0e4-aadd-4539-b7ac-d4979b9d0910.mp4">
-    <img src="https://user-images.githubusercontent.com/8558/290011195-35d53963-fe57-4c46-b418-e8ed3bf02f54.gif" width="100%">
-</a>  
+<img src="https://user-images.githubusercontent.com/8558/246387423-a2f6b82f-cf65-4566-af23-78fbc47f1382.png" width="100%">  
 <h1 align="left">🎖️ Andrew Jay 🎖️</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
