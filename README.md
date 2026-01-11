@@ -1,8 +1,8 @@
-<img align="right" src="https://i.imgur.com/iXuL1HG.png" alt="Illustration" title="Illustration Storyset" width=450/>
+
 <h1 align="left">🎖️ Andrew Jay 🎖️</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
-
+<img align="right" src="https://i.imgur.com/iXuL1HG.png" alt="Illustration" title="Illustration Storyset" width=450/>
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• I’m currently learning: <b>Cutting edge frontend and backend frameworks</b></p>
