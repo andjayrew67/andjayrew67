@@ -1,4 +1,4 @@
-<img align="right" src="//i.imgur.com/iXuL1HG.png" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="https://i.imgur.com/iXuL1HG.png" alt="Illustration" title="Illustration Storyset" width=450/>
 <h1 align="left">🎖️ Andrew Jay 🎖️</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
@@ -8,7 +8,15 @@
         <p>• I’m currently learning: <b>Cutting edge frontend and backend frameworks</b></p>
         <p>• Hobbies: <b> Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        
+
+		
+		<p>• Refactoring messy systems into clean ones</b></p>
+		<p>• Turning slow apps into fast ones</b></p>
+		<p>• Solving hard problems with simple solutions</b></p>
+		
+		🌌 Code is not just what I do — it's how I create value.
+		
+		Let’s build something powerful.
 </div><br>
 
 <p align = "center">
