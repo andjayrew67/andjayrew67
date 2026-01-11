@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+<img align="right" src="//i.imgur.com/iXuL1HG.png" alt="Illustration" title="Illustration Storyset" width=450/>
 <h1 align="left">🎖️ Andrew Jay 🎖️</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
@@ -11,9 +11,6 @@
         
 </div><br>
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
