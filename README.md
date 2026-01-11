@@ -1,13 +1,14 @@
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
-    
-<h1 align="left">Andrew Jay</h1>
+<a href="https://user-images.githubusercontent.com/8558/290011169-1af9e0e4-aadd-4539-b7ac-d4979b9d0910.mp4">
+    <img src="https://user-images.githubusercontent.com/8558/290011195-35d53963-fe57-4c46-b418-e8ed3bf02f54.gif" width="100%">
+</a>  
+<h1 align="left">🎖️ Andrew Jay 🎖️</h1>
 
 <h3 align="left">I have a passion for programming and tecnology! </h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• I’m currently learning: <b>Cutting edge frontend and backend frameworks</b></p>
-        <p>• Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
+        <p>• Hobbies: <b> Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         
 </div><br>
