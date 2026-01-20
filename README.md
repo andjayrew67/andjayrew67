@@ -6,7 +6,6 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• I’m currently learning: <b>Cutting edge frontend and backend frameworks</b></p>
-        <p>• Hobbies: <b> Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
         <p>• Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
 
 		
